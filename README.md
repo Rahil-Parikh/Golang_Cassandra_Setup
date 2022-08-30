@@ -1,2 +1,2 @@
 # Golang_Cassandra_Setup
-Sample Golang project for connecting and querying to Cassandra Database
+Sample RESTful Golang project using gorrila/mux for REST APIs and cassandra driver for connecting and querying to Cassandra Database
